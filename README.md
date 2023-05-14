@@ -10,7 +10,7 @@ Thanks for visiting my page and feel free to reach out anytime! Feel free to con
 
 
 <h2>Find me around the web</h2>
-<p>💻 Personal Website: <a href="https://barills-diana.github.io/Portfolio-yt/index.html">https://barills-diana.github.io/Portfolio-yt/index.html</a></p>
+<p>💻 Personal Website: <a href="https://barills-diana.github.io/DianaBarills/">https://barills-diana.github.io/DianaBarills/</a></p>
 <p>📝 LinkedIn: <a href="https://www.linkedin.com/in/diana-barill/">https://www.linkedin.com/in/diana-barill/</a></p>
 <p>Thanks for visiting my page and feel free to check out some of my projects below!</p>
 
